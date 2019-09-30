@@ -8,7 +8,7 @@ class App extends Component {
 			<div>
 				<h1>kushal</h1>
 				<h2>CSCI</h2>
-				<ClickBroken />
+				<ClickBroken done="true" taskViewer="kushal" />
 			</div>
 		);
 	}
